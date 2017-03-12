@@ -1,0 +1,20 @@
+{
+  "name": "clean",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Denis Kamensky <kengji45@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/DenisKamensky/starter-project",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "^3.1.1"
+  }
+}
